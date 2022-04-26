@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyFirstProject</string>
+    <string name="job">Job</string>
+    <string name="now">Now</string>
+    <string name="skip">Skip</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="find">Find</string>
+    <string name="jobs">Jobs</string>
+    <string name="find_">Find job offers from the most popular job listing sites</string>
+    <string name="next">Next</string>
+    <string name="track">Track all your job applications and don\'t get lost in the process</string>
+    <string name="back">back</string>
+    <string name="si">Sign In/Up</string>
+    <string name="start">Start applying and get a\n Job Now</string>
+    <string name="con">Connect with Linkedin</string>
+    <string name="indeed">indeed</string>
+    <string name="monster">Monster</string>
+    <string name="linkedin">Linkedin</string>
+    <string name="glassdoor">glassdoor</string>
+    <string name="angellist">AngelList</string>
+    <string name="save">Saved Offers</string>
+    <string name="edit">Edit</string>
+    <string name="text">If you are in love with someone, the last thing you want to do is make a mistake that will drive that person away. It is important to send that person the right kind of messages, especially when you have a fight or if he or she does something that hurts you. Finding the right words to say can be difficult, and we’re here to make things easy.</string>
+    <string name="text2">A relationship is a journey, and every relationship needs some guidance. Finding the perfect words to express yourself to the one you love can be a challenge, but it’s well worth the search. A little love note or sweet text message can make a big difference to your relationship and help you and your partner reconnect. If you feel like your relationship could use a boost, keep reading.</string>
+</resources>
